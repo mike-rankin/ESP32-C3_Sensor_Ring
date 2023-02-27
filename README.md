@@ -9,6 +9,7 @@ The specs are:<br/>
 * SGP30 eCO2/TVOC sensor<br/>
 * SGP40 Air quality sensor<br/>
 * SHT20 Temperature/Humidity sensor<br/>
+* Battery? <br/>
 
 The original ring is an XXXX that has limited features without any sensors. I removed the cap, desoldered the circuit board, pushbutton switch cable and display from the existing board to install the ESP32 sensor board.<br/>  The sensor board is soldered to the processor board with board edge gold pads and programmed with a custom pogo pin CP2104 USB-C board.
 
