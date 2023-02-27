@@ -1,5 +1,5 @@
 # ESP32-C3_Sensor_Ring
-Unfortunately this Arduino based ESP32 Sensor Ring is not an open source project but the customer did give permissions to post images and adescription of the hardware.<br/>
+Unfortunately this Arduino based ESP32 Sensor Ring is not an open source project but the customer did give permissions to post images and a description of the hardware.<br/>
 The specs are:<br/>
 * ESP32-C3 Processor<br/>
 * 0.49" 64x32 i2c Oled display<br/>
@@ -10,7 +10,9 @@ The specs are:<br/>
 * SGP40 Air quality sensor<br/>
 * SHT20 Temperature/Humidity sensor<br/>
 
-The original ring is an XXXX that has limited features without any sensors. I remove the cap, desolder the circuit board, pushbutton switch and display from the existing board to install the ESP32 sensor board.<br/> 
+The original ring is an XXXX that has limited features without any sensors. I removed the cap, desoldered the circuit board, pushbutton switch cable and display from the existing board to install the ESP32 sensor board.<br/>  The sensor board is soldered to the processor board with board edge gold pads and programmed with a custom pogo pin CP2104 USB-C board.
+
+
 ![quarter](https://user-images.githubusercontent.com/4991664/221663001-2fac96d7-cdd7-43dd-9432-7542733127a2.jpg)
 ![Sensors](https://user-images.githubusercontent.com/4991664/221662958-e2f46356-9d1b-424b-9d84-4c673c9f06ba.jpg)
 ![Top](https://user-images.githubusercontent.com/4991664/221662973-71cbf2ea-a863-4664-a587-44b4e65210e6.jpg)
