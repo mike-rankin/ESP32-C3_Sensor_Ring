@@ -12,6 +12,15 @@ The specs are:
 
 The original ring is an XXXX that has limited features without any sensors. I remove the cap, desolder the circuit board, pushbutton switch and display from the existing board to install the ESP32 sensor board. 
 
+![Sensors](https://user-images.githubusercontent.com/4991664/221662958-e2f46356-9d1b-424b-9d84-4c673c9f06ba.jpg)
+![Top](https://user-images.githubusercontent.com/4991664/221662973-71cbf2ea-a863-4664-a587-44b4e65210e6.jpg)
+![quarter](https://user-images.githubusercontent.com/4991664/221663001-2fac96d7-cdd7-43dd-9432-7542733127a2.jpg)
+![Mating](https://user-images.githubusercontent.com/4991664/221663021-3e8f836b-b37d-4b94-914c-9686603476a2.jpg)
+![Bottom](https://user-images.githubusercontent.com/4991664/221663032-07955743-a661-429a-a21b-8a8a61051a17.jpg)
+![Installed_1](https://user-images.githubusercontent.com/4991664/221663038-5e3d3e2c-8c0a-4df0-b6f0-d4dfde024ec7.jpg)
+![Finished](https://user-images.githubusercontent.com/4991664/221663045-b58c7a65-43f6-49f9-802e-8f774deaaa4c.jpg)
+![Programmer](https://user-images.githubusercontent.com/4991664/221663053-eb7a3136-90b4-415f-bce0-dc80683c4a84.jpg)
+
 
 
 
