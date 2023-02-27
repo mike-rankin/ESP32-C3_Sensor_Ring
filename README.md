@@ -1,8 +1,8 @@
 # ESP32-C3_Sensor_Ring
 Unfortunately this Arduino based ESP32 Sensor Ring is not an open source project but the customer did give permissions to post images and adescription of the hardware.<br/>
 The specs are:<br/>
--ESP32-C3 Processor<br/>
--0.49" 64x32 i2c Oled display<br/>
++-ESP32-C3 Processor<br/>
++-0.49" 64x32 i2c Oled display<br/>
 -LIS2DH12TR accelerometer<br/>
 -3.3V & 1.8V LDO in tiny UDFN-4 footprints<br/>
 -MCP73831T-2ACI/OT LiPo charger<br/>
