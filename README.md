@@ -9,7 +9,7 @@ The specs are:<br/>
 * SGP30 eCO2/TVOC sensor<br/>
 * SGP40 Air quality sensor<br/>
 * SHT20 Temperature/Humidity sensor<br/>
-* Battery? <br/>
+* 40mAh Battery<br/>
 * Four layer mainboard & sensor board 0.8mm thick created in Altium Designer <br/>
 
 The original ring is an XXXX that has limited features without any sensors. I removed the cap, desoldered the circuit board, pushbutton switch cable and display from the existing board to install the ESP32 sensor board.<br/>  The sensor board is soldered to the processor board with board edge gold pads and programmed with a custom pogo pin CP2104 USB-C board.
@@ -25,6 +25,9 @@ Feel free to [email] (geeksworld@outlook.com) who is the owner of this project f
 ![Installed_1](https://user-images.githubusercontent.com/4991664/221663038-5e3d3e2c-8c0a-4df0-b6f0-d4dfde024ec7.jpg)
 ![Finished](https://user-images.githubusercontent.com/4991664/221663045-b58c7a65-43f6-49f9-802e-8f774deaaa4c.jpg)
 ![Programmer](https://user-images.githubusercontent.com/4991664/221663053-eb7a3136-90b4-415f-bce0-dc80683c4a84.jpg)
+
+![dot](https://user-images.githubusercontent.com/4991664/221876978-88d35399-169c-4034-bf3f-c9f020cdc073.jpg)
+![original](https://user-images.githubusercontent.com/4991664/221876996-6eeb1210-f84d-4577-af41-4c5c59882915.jpg)
 
 
 
