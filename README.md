@@ -1,19 +1,6 @@
 # ESP32-C3_Sensor_Ring
 Unfortunately this Arduino based ESP32 Sensor Ring is not an open source project but the customer did give permissions to post images and a description of the hardware.<br/>
 
-The specs are:<br/>
-* ESP32-C3 Processor<br/>
-* 0.49" 64x32 i2c Oled display<br/>
-* LIS2DH12TR accelerometer<br/>
-* 3.3V & 1.8V LDO in tiny UDFN-4 footprints<br/>
-* MCP73831T-2ACI/OT LiPo charger<br/>
-* SGP30 eCO2/TVOC sensor<br/>
-* SGP40 Air quality sensor<br/>
-* SHT20 Temperature/Humidity sensor<br/>
-* 40mAh Battery<br/>
-* Four layer mainboard & sensor board 0.8mm thick created in Altium Designer <br/>
-
-The original bluetooth ring is an ZIKR that has limited features and without any sensors. I removed the cap, desoldered the circuit board, pushbutton switch cable and display from the existing board to install the ESP32 sensor board.<br/>  The sensor board is soldered to the processor board with board edge gold pads and programmed with a custom pogo pin CP2104 USB-C board.
 Feel free to [email] (geeksworld@outlook.com) who is the owner of this project for any questions<br/>
 
 
