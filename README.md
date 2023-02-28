@@ -13,8 +13,6 @@ Feel free to [email] (geeksworld@outlook.com) who is the owner of this project f
 
 
 
-![dot](https://user-images.githubusercontent.com/4991664/221876978-88d35399-169c-4034-bf3f-c9f020cdc073.jpg)
-
 
 
 
