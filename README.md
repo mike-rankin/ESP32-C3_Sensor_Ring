@@ -6,7 +6,6 @@ Feel free to [email] (geeksworld@outlook.com) who is the owner of this project f
 
 ![quarter](https://user-images.githubusercontent.com/4991664/221663001-2fac96d7-cdd7-43dd-9432-7542733127a2.jpg)
 
-![Top](https://user-images.githubusercontent.com/4991664/221662973-71cbf2ea-a863-4664-a587-44b4e65210e6.jpg)
 ![Mating](https://user-images.githubusercontent.com/4991664/221663021-3e8f836b-b37d-4b94-914c-9686603476a2.jpg)
 ![Bottom](https://user-images.githubusercontent.com/4991664/221663032-07955743-a661-429a-a21b-8a8a61051a17.jpg)
 
