@@ -24,11 +24,13 @@ Feel free to [email] (geeksworld@outlook.com) who is the owner of this project f
 ![Bottom](https://user-images.githubusercontent.com/4991664/221663032-07955743-a661-429a-a21b-8a8a61051a17.jpg)
 ![Box](https://user-images.githubusercontent.com/4991664/221883630-8bd081f1-9824-4627-a08e-17eeb256a8c5.jpg)
 * This is the original circuit board that comes with the ring. The battery and oled display are removed and used on the esp32 board. The vibe motor is removed to make room for the sensor board. A small hole is dilled into the ring for the sensors.<br/>
+* 
 ![Original](https://user-images.githubusercontent.com/4991664/221883666-a122324d-ea6a-4980-ab1b-1a1c7e7cabbe.jpg)
 ![Installed_1](https://user-images.githubusercontent.com/4991664/221663038-5e3d3e2c-8c0a-4df0-b6f0-d4dfde024ec7.jpg)
 ![Finished](https://user-images.githubusercontent.com/4991664/221663045-b58c7a65-43f6-49f9-802e-8f774deaaa4c.jpg)
 ![Programmer](https://user-images.githubusercontent.com/4991664/221663053-eb7a3136-90b4-415f-bce0-dc80683c4a84.jpg)
 * A metal dot is placed over the hole to keep out debris but still allow airflow.<br/>
+* 
 ![dot](https://user-images.githubusercontent.com/4991664/221876978-88d35399-169c-4034-bf3f-c9f020cdc073.jpg)
 
 
